@@ -37,8 +37,6 @@ A brief description of what the project is about and the technologies used.
 - Machine learning and data science techniques.
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **LinkedIn**: [jia-tolentino](https://www.linkedin.com/in/jia-tolentino/)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
