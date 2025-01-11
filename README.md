@@ -135,7 +135,7 @@
   <li>ETABS</li>
   <li>SAFE</li>
   <li>RAM</li>
-  <li>Staad Pro</li>
+  <li>STAAD Pro</li>
   <li>Autodesk Robot Structural Analysis</li>
   <li>Rhino3D-Grasshopper</li>
 </ul>
